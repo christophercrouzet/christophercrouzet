@@ -23,7 +23,7 @@ I don't bite so come say hi! :blush:
     </dd>
     <dt>uuki</dt>
     <dd>
-        Toy project to learn about writing compilers—I haven't really started working on it other than writing a base library with no dependency towards the CRT, no dynamic allocations, some debugging utilities, a colorful logger, a virtual memory API, a custom linear allocator, and a growable array.
+        Toy project to learn about writing compilers—I haven't really started working on it other than writing a base library with no dynamic allocations, some debugging utilities, a colorful logger, a virtual memory API, a custom linear allocator, and a growable array.
         <ul>
             <li><a href="https://github.com/christophercrouzet/uuki">repository</a></li>
         </ul>
